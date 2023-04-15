@@ -57,3 +57,45 @@ print(math.exp(2*y)+math.sin(f))
 
 print(2*math.sin(0.214*y**5+1))
 """
+
+#25
+"""y = int(input("y is:"))
+f = int(input("f is:"))
+
+print(math.exp(2*y)+math.sin(f**1))"""
+
+#26
+"""p = int(input("p is:"))
+
+print(math.sin(p**2+0.4)**3)"""
+
+#27
+"""
+v = int(input("v is:"))
+x = int(input("x is:"))
+y = int(input("y is:"))
+
+print(1.03*v+math.exp(2*y)+math.tan(abs(x)))
+"""
+
+#28
+"""
+y = int(input("y is:"))
+h = int(input("h is:"))
+
+print(math.exp(y+h)+math.sqrt(abs(6.4*y)))
+"""
+#29
+
+"""y = int(input())
+
+print(3*y**2+math.sqrt(abs(y+1)))
+"""
+
+#30
+
+"""y = int(input("y is:"))
+r = int(input("r is:"))
+
+print(math.exp(y+r)+7.2*math.sin(r))
+"""
