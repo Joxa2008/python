@@ -36,5 +36,4 @@ y = int(input("y is:"))
 h = int(input("h is:"))
 
 print(math.exp(y+5.5)+9.1*h**3)"""
-
-
+print()
