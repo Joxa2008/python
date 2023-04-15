@@ -36,4 +36,24 @@ y = int(input("y is:"))
 h = int(input("h is:"))
 
 print(math.exp(y+5.5)+9.1*h**3)"""
-print()
+
+#22
+"""y = int(input("y is:"))
+u = int(input("u is:"))
+x = int(input("x is:"))
+
+print(math.sin(2*u)*math.log(2*y**2+math.sqrt(x)))
+"""
+
+#23
+"""y = int(input("y is:"))
+f = int(input("f is:")) 
+
+print(math.exp(2*y)+math.sin(f))
+"""
+
+#24
+"""y = int(input("y is:"))
+
+print(2*math.sin(0.214*y**5+1))
+"""
