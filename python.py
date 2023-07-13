@@ -100,3 +100,6 @@ r = int(input("r is:"))
 
 print(math.exp(y+r)+7.2*math.sin(r))
 """
+
+
+
